@@ -1,0 +1,1844 @@
+<table border='2px'><tr bgcolor='#87AFC6'><td width="150px;">TRF Number </td>
+                                    <td>Requestor </td>
+                                    <td>Traveler Name</td>
+                                    <td>Budget Code</td>
+                                    <td>Company</td>
+                                    <td>Approved By</td>
+                                    <td>Reference Number</td>
+                                    <td>Booked Date</td>
+                                    <td>Amount</td>
+                                    <td>Type</td>
+                                    <td>Ticket</td>
+                                    <td>Official Receipt</td>
+                                    <td>Action</td>
+                                </tr>
+                                            <td width="130px;">TRF-2019-100</td>
+                                        <td>Cynthia Cruz</td>
+                                        <td>Corie Arroz</td>
+                                        <td>L60010007301</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>OIFHAZ</td>
+                                        <td>2019-11-13</td>
+                                        <td>2711</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573640173_CTADEC12,2019.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573640173_CTADEC12,2019.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/250" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-101</td>
+                                        <td>Cynthia Cruz</td>
+                                        <td>Corie Arroz</td>
+                                        <td>L60010007301</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>OH88EG</td>
+                                        <td>2019-11-12</td>
+                                        <td>5110</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573640792_CTADEC17-21,2019.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573640792_CTADEC17,2019OfficialReceipt.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/251" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-143</td>
+                                        <td>Justine Hilado</td>
+                                        <td>Justine Hilado</td>
+                                        <td>P600607T0697</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Donnabelle Pasquin</td>
+                                        <td>AJGB4H</td>
+                                        <td>2019-11-13</td>
+                                        <td>5192.2</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573648632_ITINERARY.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573648632_OR.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/293" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-013</td>
+                                        <td>Stella Mariedith Leda</td>
+                                        <td>Baltazar T. Castrana Jr.</td>
+                                        <td>P600603I0068</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ethel Joy Valencia</td>
+                                        <td>PG25MW</td>
+                                        <td>2019-11-04</td>
+                                        <td>5098.84</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573691804_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573691804_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/159" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-001</td>
+                                        <td>Karen Joyce Baliclic</td>
+                                        <td>FAYE FELECIO</td>
+                                        <td>P600603S0478</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Alejandro Paez</td>
+                                        <td>MMD3HR</td>
+                                        <td>2019-11-04</td>
+                                        <td>5083.64</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573691865_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573691865_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/147" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-005</td>
+                                        <td>Karen Joyce Baliclic</td>
+                                        <td>CARMELA TAMAYO</td>
+                                        <td>P600603S0482</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Alejandro Paez</td>
+                                        <td>MMD3HR</td>
+                                        <td>2019-11-04</td>
+                                        <td>5083.64</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573691880_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573691880_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/151" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-006</td>
+                                        <td>Karen Joyce Baliclic</td>
+                                        <td>LEA TAURO</td>
+                                        <td>P600603S0486</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Alejandro Paez</td>
+                                        <td>MMD3HR</td>
+                                        <td>2019-11-04</td>
+                                        <td>5083.64</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573691899_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573691899_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/152" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-017</td>
+                                        <td>Karen Joyce Baliclic</td>
+                                        <td>Roger Cabato</td>
+                                        <td>P600601S0052</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Alejandro Paez</td>
+                                        <td>SFWUYZ</td>
+                                        <td>2019-11-04</td>
+                                        <td>11112.52</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573691985_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573691985_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/166" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-024</td>
+                                        <td>Francis Albert Dela Cruz</td>
+                                        <td>Francis Albert Dela Cruz</td>
+                                        <td>P600605A0698</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>L94I3L</td>
+                                        <td>2019-11-04</td>
+                                        <td>8119.56</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573692054_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573692054_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/174" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-025</td>
+                                        <td>Francis Albert Dela Cruz</td>
+                                        <td>Edwin Bayan</td>
+                                        <td>P600605A0698</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>L94I3L</td>
+                                        <td>2019-11-04</td>
+                                        <td>8119.56</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573692073_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573692073_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/175" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-031</td>
+                                        <td>Cynthia Cruz</td>
+                                        <td>CORIE ARROZ</td>
+                                        <td>L60010007301</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>TE9URP</td>
+                                        <td>2019-11-05</td>
+                                        <td>5345.24</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573692140_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573692140_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/181" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-048</td>
+                                        <td>Edimar Zorilla Jr.</td>
+                                        <td>Charlie Almarza Cao</td>
+                                        <td>P600602T0488</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Donnabelle Pasquin</td>
+                                        <td>HKJ3WX</td>
+                                        <td>2019-11-05</td>
+                                        <td>5020.44</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573692221_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573692221_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/198" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-046</td>
+                                        <td>Edimar Zorilla Jr.</td>
+                                        <td>Edimar Zorilla Jr.</td>
+                                        <td>P600602T0488</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Donnabelle Pasquin</td>
+                                        <td>UB6UFI</td>
+                                        <td>2019-11-05</td>
+                                        <td>5199.64</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573692264_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573692264_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/196" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-037</td>
+                                        <td>Glina Taguinod</td>
+                                        <td>Julius Benagua</td>
+                                        <td>P600606S0452</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Norman Ramos</td>
+                                        <td>TGBWGW</td>
+                                        <td>2019-11-04</td>
+                                        <td>7328.76</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573692362_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573692362_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/187" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-057</td>
+                                        <td>Glina Taguinod</td>
+                                        <td>Judgie A. Perez</td>
+                                        <td>P600806S0553</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Terence Uygongco</td>
+                                        <td>MB2NVI</td>
+                                        <td>2019-11-05</td>
+                                        <td>4943.16</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573692806_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573692806_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/207" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-056</td>
+                                        <td>Glina Taguinod</td>
+                                        <td>Julius Benagua</td>
+                                        <td>P600606S0452</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Terence Uygongco</td>
+                                        <td>MB2NVI</td>
+                                        <td>2019-11-05</td>
+                                        <td>4943.16</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573692830_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573692830_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/206" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-055</td>
+                                        <td>Glina Taguinod</td>
+                                        <td>Alfonso M. Ticorda</td>
+                                        <td>P600606S0443</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Terence Uygongco</td>
+                                        <td>MB2NVI</td>
+                                        <td>2019-11-05</td>
+                                        <td>4943.16</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573692855_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573692855_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/205" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-029</td>
+                                        <td>Julie Ann Javellana</td>
+                                        <td>ANBRIE ANTIPORDA</td>
+                                        <td>P600603S0429</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Alejandro Paez</td>
+                                        <td>SIYFQQ</td>
+                                        <td>2019-11-05</td>
+                                        <td>3400.24</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573692923_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573692923_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/179" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-028</td>
+                                        <td>Julie Ann Javellana</td>
+                                        <td>PERLIN DEOCAMPO</td>
+                                        <td>P600603S0419</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Alejandro Paez</td>
+                                        <td>AGVW3A</td>
+                                        <td>2019-11-05</td>
+                                        <td>5869.4</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573693644_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573693644_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/178" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-015</td>
+                                        <td>Michelle Jesoro</td>
+                                        <td>Michelle Jesoro</td>
+                                        <td>P600605A0708</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Francis Albert Dela Cruz</td>
+                                        <td>VJS55K</td>
+                                        <td>2019-11-05</td>
+                                        <td>7787.96</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573693731_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573693731_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/164" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-047</td>
+                                        <td>Pablito Tolentino</td>
+                                        <td>Pablito Tolentino</td>
+                                        <td>Not applicable</td>
+                                        <td>ADVANCED AGRISOLUTIONS PHILIPPINES CORPORATION</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>RFFFVZ</td>
+                                        <td>2019-11-05</td>
+                                        <td>4729.24</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573693775_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573693775_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/197" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-032</td>
+                                        <td>Randy Macaya</td>
+                                        <td>Randy Macaya</td>
+                                        <td>P503103Q1605</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>FKCU8U</td>
+                                        <td>2019-11-05</td>
+                                        <td>5200.76</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573693890_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573693890_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/182" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-028</td>
+                                        <td>Julie Ann Javellana</td>
+                                        <td>PERLIN DEOCAMPO</td>
+                                        <td>P600603S0419</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Alejandro Paez</td>
+                                        <td>AGVW3A</td>
+                                        <td>2019-11-05</td>
+                                        <td>5869.4</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573693934_Itinerary_PDF(10).pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573693934_OfficialReceiptPDF(1).pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/178" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-050</td>
+                                        <td>Terence Uygongco</td>
+                                        <td>Terence Uygongco</td>
+                                        <td>P600606S0446</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>TRTIN8</td>
+                                        <td>2019-11-05</td>
+                                        <td>2810</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573693962_ElectronicTicketReceipt09NOVforTERENCEUYGONGCO.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573693962_ElectronicTicketReceipt09NOVforTERENCEUYGONGCO.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/200" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-026</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>L60010007206</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>V5GWIA</td>
+                                        <td>2019-11-05</td>
+                                        <td>3387</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573696517_BookingConfirmationV5GWIA.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573696517_BookingConfirmationV5GWIA.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/176" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-026</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>L60010007206</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>V5EX25</td>
+                                        <td>2019-11-05</td>
+                                        <td>3387</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573696517_BookingConfirmationV5EX25.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573696517_BookingConfirmationV5EX25.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/176" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-042</td>
+                                        <td>Venir Cuyco</td>
+                                        <td>Venir Cuyco</td>
+                                        <td>L70090010613</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>UAYWWE</td>
+                                        <td>2019-11-05</td>
+                                        <td>6454</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573696616_BookingConfirmationUAYWWE.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573696616_BookingConfirmationUAYWWE.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/192" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-020</td>
+                                        <td>Allen Ocampo</td>
+                                        <td>Allen Ocampo</td>
+                                        <td>I7009OAX0062</td>
+                                        <td>PHILIPPINE LEADING INFINITE LOGISTICS INCORPORATED</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>E9CBSL</td>
+                                        <td>2019-11-06</td>
+                                        <td>2332.44</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573696681_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573696681_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/170" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-064</td>
+                                        <td>Czarina Viray</td>
+                                        <td>Noel L. Paña</td>
+                                        <td>3403-01-T4T-003</td>
+                                        <td>AMIGO LOGISTICS CORPORATION</td>
+                                        <td>John Boi Sy</td>
+                                        <td>XBD3WY</td>
+                                        <td>2019-11-06</td>
+                                        <td>2130.6</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573696760_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573696760_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/214" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-040</td>
+                                        <td>Nemisio Buot III</td>
+                                        <td>Nemisio Buot III</td>
+                                        <td>P600603T0535</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Donnabelle Pasquin</td>
+                                        <td>DY41GI</td>
+                                        <td>2019-11-06</td>
+                                        <td>7070.36</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573696806_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573696806_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/190" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-018</td>
+                                        <td>James Ang</td>
+                                        <td>James Ang</td>
+                                        <td>A70092300007</td>
+                                        <td>AMIGO LOGISTICS CORPORATION</td>
+                                        <td>John Boi Sy</td>
+                                        <td>YKFF6X</td>
+                                        <td>2019-11-06</td>
+                                        <td>1711.68</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573696893_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573696893_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/168" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-049</td>
+                                        <td>Theody Solar</td>
+                                        <td>Theody Solar</td>
+                                        <td>P600607T0700</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Donnabelle Pasquin</td>
+                                        <td>HBF8FF</td>
+                                        <td>2019-11-06</td>
+                                        <td>12669.16</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573696944_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573696944_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/199" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-059</td>
+                                        <td>Trisha Mingaracal</td>
+                                        <td>Alfred Jun Dadal</td>
+                                        <td>Not applicable</td>
+                                        <td>ADVANCED AGRISOLUTIONS PHILIPPINES CORPORATION</td>
+                                        <td>Pablito Tolentino</td>
+                                        <td>YJ2WYQ</td>
+                                        <td>2019-11-06</td>
+                                        <td>4135.64</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573696982_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573696982_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/209" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-058</td>
+                                        <td>Trisha Mingaracal</td>
+                                        <td>Arnold Gerodias</td>
+                                        <td>Not applicable</td>
+                                        <td>ADVANCED AGRISOLUTIONS PHILIPPINES CORPORATION</td>
+                                        <td>Pablito Tolentino</td>
+                                        <td>BDJU8Z</td>
+                                        <td>2019-11-06</td>
+                                        <td>8031.4</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573697029_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573697029_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/208" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-060</td>
+                                        <td>Alvin Almenario</td>
+                                        <td>Alvin Almenario</td>
+                                        <td>S600803H0654</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Froilan Dimaculangan</td>
+                                        <td>VE7K6M</td>
+                                        <td>2019-11-07</td>
+                                        <td>6631.08</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573697151_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573697151_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/210" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-044</td>
+                                        <td>Majesty Mae Ramos</td>
+                                        <td>Majesty Mae Ramos</td>
+                                        <td>S600803H0654</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Froilan Dimaculangan</td>
+                                        <td>VE7K6M</td>
+                                        <td>2019-11-07</td>
+                                        <td>6631.08</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573697172_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573697172_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/194" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-035</td>
+                                        <td>Annielyn Depaz</td>
+                                        <td>Annielyn Depaz</td>
+                                        <td>I7009OAX0059</td>
+                                        <td>PHILIPPINE LEADING INFINITE LOGISTICS INCORPORATED</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>LF68KJ</td>
+                                        <td>2019-11-07</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573697248_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573697248_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/185" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-041</td>
+                                        <td>Joey Encarnacion</td>
+                                        <td>Joey Encarnacion</td>
+                                        <td>P503101Q0285</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>LF68KJ</td>
+                                        <td>2019-11-07</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573697281_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573697281_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/191" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-062</td>
+                                        <td>Liahbel Dizon</td>
+                                        <td>Liahbel Dizon</td>
+                                        <td>P600604D0215</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>LF68KJ</td>
+                                        <td>2019-11-07</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573697300_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573697300_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/212" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-053</td>
+                                        <td>Mark Anthony Topacio</td>
+                                        <td>Neil Kelli Enriquez</td>
+                                        <td>P503103Q1603</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>LF68KJ</td>
+                                        <td>2019-11-07</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573697329_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573697329_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/203" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-036</td>
+                                        <td>Mark Anthony Topacio</td>
+                                        <td>Mark Anthony Topacio</td>
+                                        <td>P503101Q0281</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>LF68KJ</td>
+                                        <td>2019-11-07</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573697364_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573697364_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/186" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-068</td>
+                                        <td>Dennis Villanueva</td>
+                                        <td>Corie Arroz</td>
+                                        <td>L60010007301</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>RGJ5SW</td>
+                                        <td>2019-11-14</td>
+                                        <td>3032.92</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698066_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698066_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/218" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-068</td>
+                                        <td>Dennis Villanueva</td>
+                                        <td>Corie Arroz</td>
+                                        <td>L60010007301</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>TIAVTU</td>
+                                        <td>2019-11-14</td>
+                                        <td>8346</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698066_BookingConfirmationTIAVTU.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698066_BookingConfirmationTIAVTU.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/218" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-072</td>
+                                        <td>Deserie Jane Olivar</td>
+                                        <td>Dennis N Flores</td>
+                                        <td>P600607S0802</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Gerald Jone Uygongco</td>
+                                        <td>NAJTQ5</td>
+                                        <td>2019-11-07</td>
+                                        <td>3626</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698162_BookingConfirmationNAJTQ5.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698162_BookingConfirmationNAJTQ5.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/222" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-072</td>
+                                        <td>Deserie Jane Olivar</td>
+                                        <td>Dennis N Flores</td>
+                                        <td>P600607S0802</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Gerald Jone Uygongco</td>
+                                        <td>JE2W7Z</td>
+                                        <td>2019-11-07</td>
+                                        <td>2905.44</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698162_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698162_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/222" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-148</td>
+                                        <td>Julie Ann Javellana</td>
+                                        <td>Roger Cabato</td>
+                                        <td>P600601S0052</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Alejandro Paez</td>
+                                        <td>BBUVRS</td>
+                                        <td>2019-11-14</td>
+                                        <td>16712.52</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698236_Ticket-BBUVRSMnlZamMnlR.Cabato.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698236_OR-BBUVRSMnlZamMnlR.Cabato.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/298" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-054</td>
+                                        <td>Iris Pama</td>
+                                        <td>Iris Pama</td>
+                                        <td>NA</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>SKJVSK</td>
+                                        <td>2019-11-07</td>
+                                        <td>2114.52</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698273_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698273_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/204" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-054</td>
+                                        <td>Iris Pama</td>
+                                        <td>Iris Pama</td>
+                                        <td>NA</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>KEBTJA</td>
+                                        <td>2019-11-06</td>
+                                        <td>2065</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698273_BookingConfirmationKEBTJA.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698273_BookingConfirmationKEBTJA.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/204" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-073</td>
+                                        <td>Mae Ann Biolon</td>
+                                        <td>LOUISE VALENZONA MORALES</td>
+                                        <td>A70092300017</td>
+                                        <td>AMIGO LOGISTICS CORPORATION</td>
+                                        <td>James Ang</td>
+                                        <td>XLMMKH</td>
+                                        <td>2019-11-07</td>
+                                        <td>4084.16</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698359_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698359_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/223" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-071</td>
+                                        <td>Norman Ramos</td>
+                                        <td>Norman Ramos</td>
+                                        <td>P600606S0446</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>MCICDW</td>
+                                        <td>2019-11-07</td>
+                                        <td>4406</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698427_BookingConfirmationMCICDW.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698427_BookingConfirmationMCICDW.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/221" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-067</td>
+                                        <td>Terence Uygongco</td>
+                                        <td>Terence Uygongco</td>
+                                        <td>P600606S0446</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>NBWUQP</td>
+                                        <td>2019-11-07</td>
+                                        <td>4294</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698747_BookingConfirmationNBWUQP.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698747_BookingConfirmationNBWUQP.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/217" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-067</td>
+                                        <td>Terence Uygongco</td>
+                                        <td>Terence Uygongco</td>
+                                        <td>P600606S0446</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>ND2SCK</td>
+                                        <td>2019-11-07</td>
+                                        <td>2315</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698747_BookingConfirmationND2SCK.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698747_BookingConfirmationND2SCK.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/217" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-067</td>
+                                        <td>Terence Uygongco</td>
+                                        <td>Terence Uygongco</td>
+                                        <td>P600606S0446</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>T9RE9L</td>
+                                        <td>2019-11-07</td>
+                                        <td>2489</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698747_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698747_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/217" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-092</td>
+                                        <td>John Boi Sy</td>
+                                        <td>John Boi Sy</td>
+                                        <td>A70091000026</td>
+                                        <td>AMIGO LOGISTICS CORPORATION</td>
+                                        <td>Aileen Christel Ongkauko</td>
+                                        <td>FHVVPA</td>
+                                        <td>2019-11-08</td>
+                                        <td>2332.44</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698834_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698834_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/242" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-086</td>
+                                        <td>Aillene O Gonzales</td>
+                                        <td>Aillene O Gonzales</td>
+                                        <td>BUK-2018-FIN-TRANSPO-R40.12</td>
+                                        <td>MINDANAO GRAIN PROCESSING CO., INCORPORATED</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>MESSXM</td>
+                                        <td>2019-11-08</td>
+                                        <td>8536.68</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698881_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698881_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/236" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-085</td>
+                                        <td>Aillene O Gonzales</td>
+                                        <td>Aillene O Gonzales</td>
+                                        <td>ISA-2019-FIN-T&amp;T-R45.12</td>
+                                        <td>MINDANAO GRAIN PROCESSING CO., INCORPORATED</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>BJJPFX</td>
+                                        <td>2019-11-08</td>
+                                        <td>8231.44</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698919_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698919_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/235" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-045</td>
+                                        <td>Alfred Simon Faller</td>
+                                        <td>Alfred Simon Faller</td>
+                                        <td>I7009OAX0061</td>
+                                        <td>PHILIPPINE LEADING INFINITE LOGISTICS INCORPORATED</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>RYS5SY</td>
+                                        <td>2019-11-08</td>
+                                        <td>8851.64</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573698959_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573698959_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/195" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-066</td>
+                                        <td>Karen Joyce Baliclic</td>
+                                        <td>Kim D. Alejo</td>
+                                        <td>STI_T&amp;T_0001</td>
+                                        <td>SWEET TREATS INC.</td>
+                                        <td>Renz Christian Cabato</td>
+                                        <td>VF9W3J</td>
+                                        <td>2019-11-08</td>
+                                        <td>3407.64</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573699080_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573699080_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/216" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-065</td>
+                                        <td>Karen Joyce Baliclic</td>
+                                        <td>Kim D. Alejo</td>
+                                        <td>STI_T&amp;T_0001</td>
+                                        <td>SWEET TREATS INC.</td>
+                                        <td>Renz Christian Cabato</td>
+                                        <td>CBURHC</td>
+                                        <td>2019-11-08</td>
+                                        <td>4415.64</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573699128_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573699128_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/215" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-063</td>
+                                        <td>Patricio Abasolo</td>
+                                        <td>Patricio Abasolo</td>
+                                        <td>P503102Q0526</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>MHT6HQ</td>
+                                        <td>2019-11-08</td>
+                                        <td>4220.84</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573699258_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573699258_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/213" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-096</td>
+                                        <td>Susan Mercedes Romero</td>
+                                        <td>Paul Ryan del Rosario</td>
+                                        <td>L10200015111</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>RI1Z4A</td>
+                                        <td>2019-11-08</td>
+                                        <td>4281.24</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573699300_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573699300_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/246" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-088</td>
+                                        <td>Miko Del Rosario</td>
+                                        <td>Miko Del Rosario</td>
+                                        <td>P600603D0144</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Diane Padilla</td>
+                                        <td>XBICGI</td>
+                                        <td>2019-11-08</td>
+                                        <td>2327.52</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573699337_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573699337_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/238" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-043</td>
+                                        <td>John Rey Nobleza Villaflor</td>
+                                        <td>John Rey Nobleza Villaflor</td>
+                                        <td>P503105Q0877</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>W9HNXB</td>
+                                        <td>2019-11-08</td>
+                                        <td>8519.76</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573699816_CebuPacificAir—SkyPartnerLiteW9HNXB.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573699816_ORGenerator.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/193" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-091</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>L60010007206</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>OEUTUO</td>
+                                        <td>2019-11-12</td>
+                                        <td>3818</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573700070_BookingConfirmationOEUTUO.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573700070_BookingConfirmationOEUTUO.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/241" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-091</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>L60010007206</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>OG5W3K</td>
+                                        <td>2019-11-12</td>
+                                        <td>2442</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573700070_BookingConfirmationOG5W3K.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573700070_BookingConfirmationOG5W3K.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/241" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-091</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>L60010007206</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>OLTV3R</td>
+                                        <td>2019-11-12</td>
+                                        <td>2665.56</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573700070_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573700070_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/241" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-082</td>
+                                        <td>Cynthia Cruz</td>
+                                        <td>Corie Arroz</td>
+                                        <td>L60010007206</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>ZFGGRM</td>
+                                        <td>2019-11-12</td>
+                                        <td>3497.24</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573700134_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573700134_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/232" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-090</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>L60010007206</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>OGKR4T</td>
+                                        <td>2019-11-12</td>
+                                        <td>3387</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573700293_BookingConfirmationOGKR4T.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573700293_BookingConfirmationOGKR4T.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/240" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-087</td>
+                                        <td>Alfred Simon Faller</td>
+                                        <td>Alfred Simon Faller</td>
+                                        <td>I7009OAX0061</td>
+                                        <td>PHILIPPINE LEADING INFINITE LOGISTICS INCORPORATED</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>HFDFVJ</td>
+                                        <td>2019-11-11</td>
+                                        <td>12229.8</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573700354_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573700354_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/237" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-089</td>
+                                        <td>Alfred Simon Faller</td>
+                                        <td>Alfred Simon Faller</td>
+                                        <td>I7009OAX0061</td>
+                                        <td>PHILIPPINE LEADING INFINITE LOGISTICS INCORPORATED</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>ACUQWP</td>
+                                        <td>2019-11-14</td>
+                                        <td>6120.28</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573701056_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573701056_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/239" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-114</td>
+                                        <td>Alfred Simon Faller</td>
+                                        <td>Alfred Simon Faller</td>
+                                        <td>I7009OAX0061</td>
+                                        <td>PHILIPPINE LEADING INFINITE LOGISTICS INCORPORATED</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>MYWNFI</td>
+                                        <td>2019-11-14</td>
+                                        <td>4665.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573701122_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573701122_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/264" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-104</td>
+                                        <td>Alfred Simon Faller</td>
+                                        <td>Alfred Simon Faller</td>
+                                        <td>I7009OAX0061</td>
+                                        <td>PHILIPPINE LEADING INFINITE LOGISTICS INCORPORATED</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>TG5MQJ</td>
+                                        <td>2019-11-14</td>
+                                        <td>5437.08</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573701177_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573701177_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/254" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-094</td>
+                                        <td>Jhonsen Sales</td>
+                                        <td>Jhonsen Sales</td>
+                                        <td>P600601D0012</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Diane Padilla</td>
+                                        <td>HLWHRE</td>
+                                        <td>2019-11-11</td>
+                                        <td>4684.44</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573702969_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573702969_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/244" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-034</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>P600601D0009</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Aileen Christel Ongkauko</td>
+                                        <td>YJ2IJA</td>
+                                        <td>2019-11-11</td>
+                                        <td>1965.12</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573703123_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573703123_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/184" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-034</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>P600601D0009</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Aileen Christel Ongkauko</td>
+                                        <td>LDKM3M</td>
+                                        <td>2019-11-11</td>
+                                        <td>3324.12</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573703123_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573703123_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/184" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-069</td>
+                                        <td>Diane Padilla</td>
+                                        <td>Diane Padilla</td>
+                                        <td>P600601D0010</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>FEHTNZ</td>
+                                        <td>2019-11-11</td>
+                                        <td>5289.24</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573716810_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573716810_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/219" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-110</td>
+                                        <td>Ivy Pesebre</td>
+                                        <td>Ivy Pesebre</td>
+                                        <td>P600804S1063</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Norman Ramos</td>
+                                        <td>WMQ9PE</td>
+                                        <td>2019-11-11</td>
+                                        <td>4650.84</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573720487_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573720487_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/260" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-110</td>
+                                        <td>Ivy Pesebre</td>
+                                        <td>Ivy Pesebre</td>
+                                        <td>P600804S1063</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Norman Ramos</td>
+                                        <td>WMQ9PE</td>
+                                        <td>2019-11-11</td>
+                                        <td>4650.84</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573721092_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573721092_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/260" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-111</td>
+                                        <td>Joyce Jane Sevilla</td>
+                                        <td>Joyce Jane Sevilla</td>
+                                        <td>S600604S0761</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Norman Ramos</td>
+                                        <td>TK7H5X</td>
+                                        <td>2019-11-11</td>
+                                        <td>5412.44</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573721581_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573721581_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/261" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-093</td>
+                                        <td>Michael Mico</td>
+                                        <td>Michael Mico</td>
+                                        <td>P600601D0012</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Diane Padilla</td>
+                                        <td>5,412.44</td>
+                                        <td>2019-11-11</td>
+                                        <td>5961.24</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573721648_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573721648_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/243" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-120</td>
+                                        <td>Quennie Peralta</td>
+                                        <td>Arnold Gerodias</td>
+                                        <td>N/A</td>
+                                        <td>ADVANCED AGRISOLUTIONS PHILIPPINES CORPORATION</td>
+                                        <td>Pablito Tolentino</td>
+                                        <td>LJVSMK</td>
+                                        <td>2019-11-11</td>
+                                        <td>4459.36</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573721719_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573721719_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/270" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-119</td>
+                                        <td>Quennie Peralta</td>
+                                        <td>Alfred Jun Dadal</td>
+                                        <td>N/A</td>
+                                        <td>ADVANCED AGRISOLUTIONS PHILIPPINES CORPORATION</td>
+                                        <td>Pablito Tolentino</td>
+                                        <td>GHCCPD</td>
+                                        <td>2019-11-11</td>
+                                        <td>3982.24</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573721759_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573721759_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/269" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-103</td>
+                                        <td>Roma Dungkilab</td>
+                                        <td>Royce Manaois</td>
+                                        <td>P503101E0133</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Eliseo H. Sun</td>
+                                        <td>LMHY9B</td>
+                                        <td>2019-11-11</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573721872_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573721872_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/253" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-081</td>
+                                        <td>Roma Dungkilab</td>
+                                        <td>Jay Asido</td>
+                                        <td>P503101E0116</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Eliseo H. Sun</td>
+                                        <td>LMHY9B</td>
+                                        <td>2019-11-11</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573721893_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573721893_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/231" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-080</td>
+                                        <td>Roma Dungkilab</td>
+                                        <td>Roma Dungkilab</td>
+                                        <td>P503101E0120</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Eliseo H. Sun</td>
+                                        <td>LMHY9B</td>
+                                        <td>2019-11-11</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573721917_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573721917_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/230" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-079</td>
+                                        <td>Roma Dungkilab</td>
+                                        <td>Vincent Jayson Marantal</td>
+                                        <td>P503101E0124</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Eliseo H. Sun</td>
+                                        <td>LMHY9B</td>
+                                        <td>2019-11-11</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573721939_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573721939_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/229" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-078</td>
+                                        <td>Roma Dungkilab</td>
+                                        <td>Efren Reyes Jr.</td>
+                                        <td>P503101E0112</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Eliseo H. Sun</td>
+                                        <td>LMHY9B</td>
+                                        <td>2019-11-11</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573721957_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573721957_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/228" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-077</td>
+                                        <td>Roma Dungkilab</td>
+                                        <td>Reymund Paña</td>
+                                        <td>P503101E0104</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Eliseo H. Sun</td>
+                                        <td>LMHY9B</td>
+                                        <td>2019-11-11</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573721999_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573721999_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/227" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-108</td>
+                                        <td>Yda Danao</td>
+                                        <td>Yda Danao</td>
+                                        <td>P600604R0038</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Norman Ramos</td>
+                                        <td>ZFBQ8Z</td>
+                                        <td>2019-11-11</td>
+                                        <td>5437.08</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573722055_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573722055_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/258" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-122</td>
+                                        <td>Rhia Lachica</td>
+                                        <td>Rhia Lachica</td>
+                                        <td>L70090010615</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Iris Pama</td>
+                                        <td>MBE4NV</td>
+                                        <td>2019-11-12</td>
+                                        <td>4828.92</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573722158_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573722158_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/272" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-098</td>
+                                        <td>Susan Mercedes Romero</td>
+                                        <td>Susan Mercedes Romero</td>
+                                        <td>l70090010018</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>NOJPT2</td>
+                                        <td>2019-11-12</td>
+                                        <td>5694</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573722228_BookingConfirmationNOJPT2.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573722228_BookingConfirmationNOJPT2.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/248" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-139</td>
+                                        <td>David Paul Garingo</td>
+                                        <td>David Paul Garingo</td>
+                                        <td>L70090010613</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Venir Cuyco</td>
+                                        <td>FHNU2N</td>
+                                        <td>2019-11-12</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573722354_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573722354_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/289" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-138</td>
+                                        <td>David Paul Garingo</td>
+                                        <td>David Paul Garingo</td>
+                                        <td>L70090010613</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Venir Cuyco</td>
+                                        <td>VIU94N</td>
+                                        <td>2019-11-12</td>
+                                        <td>6321.16</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573722493_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573722493_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/288" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-136</td>
+                                        <td>David Paul Garingo</td>
+                                        <td>David Paul Garingo</td>
+                                        <td>L70090010613</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Venir Cuyco</td>
+                                        <td>QHV24A</td>
+                                        <td>2019-11-12</td>
+                                        <td>5110.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573726007_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573726007_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/286" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-135</td>
+                                        <td>David Paul Garingo</td>
+                                        <td>David Paul Garingo</td>
+                                        <td>L70090010613</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Venir Cuyco</td>
+                                        <td>OF95PZ</td>
+                                        <td>2019-11-12</td>
+                                        <td>5984.76</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573726096_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573726096_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/285" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-123</td>
+                                        <td>Edimar Zorilla Jr.</td>
+                                        <td>Ernesto Tigno Jr</td>
+                                        <td>P600602T0488</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Donnabelle Pasquin</td>
+                                        <td>YLI7QX</td>
+                                        <td>2019-11-12</td>
+                                        <td>8830.68</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573727408_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573727408_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/273" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-107</td>
+                                        <td>Eliseo H. Sun</td>
+                                        <td>Eliseo H. Sun</td>
+                                        <td>P503103E0360</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>JK17GX</td>
+                                        <td>2019-11-14</td>
+                                        <td>10308.28</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573727466_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573727466_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/257" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-137</td>
+                                        <td>Elra Amil</td>
+                                        <td>Elra Amil</td>
+                                        <td>L70090010401</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Francis Albert Dela Cruz</td>
+                                        <td>TLN3RH</td>
+                                        <td>2019-11-13</td>
+                                        <td>9489.12</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573727562_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573727562_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/287" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-134</td>
+                                        <td>Elra Amil</td>
+                                        <td>Elra Amil</td>
+                                        <td>L70090010401</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Francis Albert Dela Cruz</td>
+                                        <td>CY3CVY</td>
+                                        <td>2019-11-13</td>
+                                        <td>9673.52</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573727630_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573727630_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/284" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-133</td>
+                                        <td>Francis Albert Dela Cruz</td>
+                                        <td>Edwin Bayan</td>
+                                        <td>P600605A0698</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>QIJ32N</td>
+                                        <td>2019-11-12</td>
+                                        <td>7011.88</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573729543_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573729543_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/283" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-132</td>
+                                        <td>Francis Albert Dela Cruz</td>
+                                        <td>Francis Albert Dela Cruz</td>
+                                        <td>P600605A0698</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>QIJ32N</td>
+                                        <td>2019-11-12</td>
+                                        <td>7011.88</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573729577_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573729577_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/282" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-145</td>
+                                        <td>Froilan Dimaculangan</td>
+                                        <td>Froilan Dimaculangan</td>
+                                        <td>L70090010193</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>ZIC4KD</td>
+                                        <td>2019-11-13</td>
+                                        <td>6366.68</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573729626_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573729626_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/295" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-113</td>
+                                        <td>Hugh Owen Panopio</td>
+                                        <td>Hugh Owen Panopio</td>
+                                        <td>P503101Q0288</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Mary Anne Ferrer</td>
+                                        <td>PKPQJX</td>
+                                        <td>2019-11-12</td>
+                                        <td>6035.84</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573729676_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573729676_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/263" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-124</td>
+                                        <td>Iris Pama</td>
+                                        <td>Iris Pama</td>
+                                        <td>NA</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>TK45QM</td>
+                                        <td>2019-11-14</td>
+                                        <td>4144</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573730329_BookingConfirmationTK45QM.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573730329_BookingConfirmationTK45QM.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/274" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-115</td>
+                                        <td>James Ang</td>
+                                        <td>James Ang</td>
+                                        <td>A70092300007 2000</td>
+                                        <td>AMIGO LOGISTICS CORPORATION</td>
+                                        <td>John Boi Sy</td>
+                                        <td>LMCZGR</td>
+                                        <td>2019-11-13</td>
+                                        <td>3817.64</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573731854_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573731854_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/265" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-118</td>
+                                        <td>James Ang</td>
+                                        <td>James Ang</td>
+                                        <td>A70092300007 2000</td>
+                                        <td>AMIGO LOGISTICS CORPORATION</td>
+                                        <td>John Boi Sy</td>
+                                        <td>NGFIMG</td>
+                                        <td>2019-11-13</td>
+                                        <td>4055.8</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573731932_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573731932_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/268" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-121</td>
+                                        <td>James Ang</td>
+                                        <td>James Ang</td>
+                                        <td>A70092300007 2000</td>
+                                        <td>AMIGO LOGISTICS CORPORATION</td>
+                                        <td>John Boi Sy</td>
+                                        <td>RGXJGG</td>
+                                        <td>2019-11-13</td>
+                                        <td>5926</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573731983_BookingConfirmationRGXJGG.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573731983_BookingConfirmationRGXJGG.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/271" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-142</td>
+                                        <td>Jefferson Thomas Javier</td>
+                                        <td>Jefferson Thomas Javier</td>
+                                        <td>P600607T0685</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Donnabelle Pasquin</td>
+                                        <td>OIIH9N</td>
+                                        <td>2019-11-14</td>
+                                        <td>5192.2</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573732134_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573732134_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/292" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-109</td>
+                                        <td>Miko Del Rosario</td>
+                                        <td>Miko Del Rosario</td>
+                                        <td>P600603D0144</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Diane Padilla</td>
+                                        <td>XDVDSC</td>
+                                        <td>2019-11-13</td>
+                                        <td>5273.64</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573732219_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573732219_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/259" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-128</td>
+                                        <td>Sherwin Romero</td>
+                                        <td>Sherwin Romero</td>
+                                        <td>L70090010726</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Francis Albert Dela Cruz</td>
+                                        <td>F9I3PL</td>
+                                        <td>2019-11-12</td>
+                                        <td>3348.58</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573732328_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573732328_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/278" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-129</td>
+                                        <td>Sherwin Romero</td>
+                                        <td>Sherwin Romero</td>
+                                        <td>L70090010726</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Francis Albert Dela Cruz</td>
+                                        <td>F9I3PL</td>
+                                        <td>2019-11-12</td>
+                                        <td>3348.58</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573732355_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573732355_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/279" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-095</td>
+                                        <td>Rosaldy Ocampo</td>
+                                        <td>Rosaldy Ocampo</td>
+                                        <td>L70090010919</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>WYDH3Y</td>
+                                        <td>2019-11-13</td>
+                                        <td>5242.12</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573732800_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573732800_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/245" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-141</td>
+                                        <td>Emman James Magpuyo</td>
+                                        <td>Emman James Magpuyo</td>
+                                        <td>P600607T0687</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Donnabelle Pasquin</td>
+                                        <td>RL4J3U</td>
+                                        <td>2019-11-14</td>
+                                        <td>5192.2</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573733001_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573733001_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/291" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-160</td>
+                                        <td>Cynthia Cruz</td>
+                                        <td>Julian Felipe Uygongco</td>
+                                        <td>L60010007206</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>V5EX25</td>
+                                        <td>2019-11-15</td>
+                                        <td>3519</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573784816_JSUDEC17-21,2019NEW.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573784816_JSUDEC17-21,2019NEW.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/310" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-174</td>
+                                        <td>James Dumdum</td>
+                                        <td>James Dumdum</td>
+                                        <td>p503104m0078</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Norman Ramos</td>
+                                        <td>JG1SQW</td>
+                                        <td>2019-11-15</td>
+                                        <td>11459.88</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573789490_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573789490_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/324" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-153</td>
+                                        <td>Ryan Roncales</td>
+                                        <td>Ryan Roncales</td>
+                                        <td>S600603A0906</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Francis Albert Dela Cruz</td>
+                                        <td>ZIIU5A</td>
+                                        <td>2019-11-15</td>
+                                        <td>3654.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573804304_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573804304_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/303" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-173</td>
+                                        <td>Cynthia Cruz</td>
+                                        <td>Corie Arroz</td>
+                                        <td>L60010007301</td>
+                                        <td>LA FILIPINA UY GONGCO CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>OJK7Y9</td>
+                                        <td>2019-11-15</td>
+                                        <td>0</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573804307_ElectronicTicketReceipt17DECforCORIEARROZ.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573804307_ElectronicTicketReceipt17DECforCORIEARROZ.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/323" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-105</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>Julian Felipe Soon Uygongco</td>
+                                        <td>L60010007206</td>
+                                        <td>GLOBAL MANAGEMENT AND CONSULTANCY ASIA-ROHQ</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>OH88EG</td>
+                                        <td>2019-11-12</td>
+                                        <td>5110</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573804384_BookingConfirmationOH88EG.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573804384_BookingConfirmationOH88EG.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/255" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-130</td>
+                                        <td>Norman Ramos</td>
+                                        <td>Norman Ramos</td>
+                                        <td>P600606S0446</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>O8OFKE</td>
+                                        <td>2019-11-12</td>
+                                        <td>3339</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573805253_BookingConfirmationO8OFKE.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573805253_BookingConfirmationO8OFKE.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/280" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-130</td>
+                                        <td>Norman Ramos</td>
+                                        <td>Norman Ramos</td>
+                                        <td>P600606S0446</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Ma. Luisa Nograles</td>
+                                        <td>O9IA92</td>
+                                        <td>2019-11-12</td>
+                                        <td>2457</td>
+                                        <td>Philippine Airlines</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573805253_BookingConfirmationO9IA92.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573805253_BookingConfirmationO9IA92.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/280" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-183</td>
+                                        <td>Terrence Tejada</td>
+                                        <td>Terrence Tejada</td>
+                                        <td>P600605T0627</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Donnabelle Pasquin</td>
+                                        <td>A997TL</td>
+                                        <td>2019-11-15</td>
+                                        <td>2332.44</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573877923_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573877923_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/333" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr>
+                                            <td width="130px;">TRF-2019-149</td>
+                                        <td>Donnabelle Pasquin</td>
+                                        <td>Donnabelle Pasquin</td>
+                                        <td>P600607T0684</td>
+                                        <td>PHILIPPINE FOREMOST MILLING CORPORATION</td>
+                                        <td>Aileen Christel Ongkauko</td>
+                                        <td>EYMP7F</td>
+                                        <td>2019-11-15</td>
+                                        <td>3094.04</td>
+                                        <td>Cebu Pacific</td>
+                                        <td><a href="http://localhost/trf/public/bookrefer/1573877956_Itinerary_PDF.pdf" target="_blank">Download</a></td>
+                                        <td><a href="http://localhost/trf/public/bookor/1573877956_OfficialReceiptPDF.pdf" target="_blank">Download</a></td>
+                                        <td>   <a href="show-pdf/299" class="btn btn-info btn-sm" target="_blank"><i class="pe-7s-monitor"></i> View</a></td>
+                                        
+                                    </tr></table>
